@@ -1,0 +1,1 @@
+# Place the latest TOPOPT.py file from the release here tor re-rerun the program or remove the path in the Grasshopper file.
