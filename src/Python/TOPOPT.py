@@ -402,7 +402,7 @@ def oc(_n, _x, _volfrac, _df0dx, _dvdx, _g, _move, _lam, _logger, _passive):
     if count!=0:
         _logger.warning("Negative sensitivities found in OC method.")
         _logger.warning("{} negative sensitivities are replaced with zero".format(count))
-        df0dx[np.where(_df0dx>0)]=0.0
+        _df0dx[np.where(_df0dx>0)]=0.0
 
     ## Initial upper and lower limit of the bi-section method
     l1=0.0
