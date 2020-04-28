@@ -17,7 +17,7 @@ TopOpt2019-DMS is software as it is. The plug-in can be used, however, I do not 
 	/Grasshopper/Libraries/DMS2019/LOG
 	/Grasshopper/Libraries/DMS2019/MAIN.py
 	/Grasshopper/Libraries/DMS2019/TOPOPT.py
-	/Grasshopper/Libraries/DMS2019/TopOpt.gha
+	/Grasshopper/Libraries/DMS2019/TopOptDMS2019.gha
 	```
 - Unblock the files: right-click on the file and select properties from the menu. Click unblock on the general tab. 
 - Restart Rhino
