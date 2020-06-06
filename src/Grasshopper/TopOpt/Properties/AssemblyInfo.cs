@@ -1,4 +1,9 @@
-﻿using System.Reflection;
+﻿// This file is part of TopOpt-DMS2019. TopOpt-DMS2019 is licensed 
+// under the terms of GNU General Public License as published by the 
+// Free Software Foundation. For more information and the LICENSE file, 
+// see <https://github.com/arjendeetman/TopOpt-DMS2019>.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
