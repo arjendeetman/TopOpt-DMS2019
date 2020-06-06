@@ -55,6 +55,8 @@ You should have received a copy of the GNU General Public License along with Top
 ## Credits
 Significant parts of TopOpt-DMS2019 have been developed by Arjen Deetman as part of a research project on continuous timber fibre placement at [EDEK Uni Kassel](https://edek.uni-kassel.de/).
 
+The python code of TopOpt-DMS2019 is partly based on the python code of [Aage and Johasen](http://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-written-in-Python ).
+
 ## References
 Aage,  N.,  Johansen,  V.E.  (2013).  A  165 LINE  TOPOLOGY  OPTIMIZATION  CODE.  Retrieved  November  2,  2019  from 
 http://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-written-in-Python 
