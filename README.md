@@ -5,7 +5,7 @@ TopOpt-DMS2019 is a topology optimization plug-in for Rhinoceros Grasshopper. Th
 
 TopOpt2019-DMS is software as it is. I do not garuantee that the software will be maintained and bugs will be fixed. The plug-in can be used, however, calling an external python program outside Grasshopper makes it less easy to install and use by unexperienced Grasshopper users. It was not the purpose to make an easy to use plugin, I only made it available to make it easier for other people to reproduce my work. 
 
-To make the plugin easy to use for other people it should completely be written in C#. Currently I am not working on this, but if you are interesting in developing this further I am happy to support this. If that is the case, please contact me. 
+To make the plugin easy to use for other people it should completely be written in C#. Currently I am not working on this, but if you are interested in developing this further I am happy to support you. If that is the case, please [contact me](https://www.arjendeetman.nl). 
 
 ## TopOpt DMS2019 installation
 #### Grasshopper installation
