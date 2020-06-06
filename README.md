@@ -3,7 +3,9 @@
 
 TopOpt-DMS2019 is a topology optimization plug-in for Rhinoceros Grasshopper. This plug-in was used in the 'Robotic Wood Printing' workshop at the Design Modeling Symposium in Berlin. The plug-in is made open source with as purpose that the results that are published in the related conference paper can be reproduced. The data and log files of the results as prestened in this paper can be found in the folder with [example files](https://github.com/arjendeetman/TopOpt-DMS2019/tree/master/ExampleFiles). The conference paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-29829-6_36).
 
-TopOpt2019-DMS is software as it is. The plug-in can be used, however, I do not garuantee that the software will be maintained and bugs will be fixed. I only made it available to make it easier for other people to reproduce my work. 
+TopOpt2019-DMS is software as it is. I do not garuantee that the software will be maintained and bugs will be fixed. The plug-in can be used, however, calling an external python program outside Grasshopper makes it less easy to install and use by unexperienced Grasshopper users. It was not the purpose to make an easy to use plugin, I only made it available to make it easier for other people to reproduce my work. 
+
+To make the plugin easy to use for other people it should completely be written in C#. Currently I am not working on this, but if you are interesting in developing this further I am happy to support this. If that is the case, please contact me. 
 
 ## TopOpt DMS2019 installation
 #### Grasshopper installation
@@ -42,9 +44,13 @@ TopOpt-DMS2019
 
 Copyright (c) 2019-2020 Arjen Deetman
 
-TopOpt-DMS219 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+TopOpt-DMS2019 is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 3.0 as published by the Free Software Foundation.
 
-TODO
+TopOpt-DMS2019 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with TopOpt-DMS2019; If not, see http://www.gnu.org/licenses/.
+
+@license GPL-3.0 https://www.gnu.org/licenses/gpl.html
 
 ## Credits
 Significant parts of TopOpt-DMS2019 have been developed by Arjen Deetman as part of a research project on continuous timber fibre placement at [EDEK Uni Kassel](https://edek.uni-kassel.de/).
