@@ -1,7 +1,7 @@
 # TopOpt-DMS2019
 ![TopologyOptimization](/Utility/TopologyOptimization.gif)
 
-TopOpt-DMS2019 is a topology optimization plug-in for Rhinoceros Grasshopper. This plug-in was used in the 'Robotic Wood Printing' workshop at the Design Modeling Symposium in Berlin. The plug-in is made open source with as purpose that the results that are published in the related conference paper can be reproduced. The data and log files of the results as prestened in this paper can be found in the folder with [example files](https://github.com/arjendeetman/TopOpt-DMS2019/tree/master/ExampleFiles). The conference paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-29829-6_36).
+TopOpt-DMS2019 is a topology optimization plug-in for Rhinoceros Grasshopper. This plug-in was used in the 'Robotic Wood Printing' workshop at the Design Modeling Symposium in Berlin. The plug-in is made open source with as purpose that the results that are published in the related conference paper can be reproduced. The data and log files of the results as presented in this paper can be found in the folder with [example files](https://github.com/arjendeetman/TopOpt-DMS2019/tree/master/ExampleFiles). The conference paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-29829-6_36).
 
 TopOpt2019-DMS is software as it is. I do not garuantee that the software will be maintained and bugs will be fixed. The plug-in can be used, however, calling an external python program outside Grasshopper makes it less easy to install and use by unexperienced Grasshopper users. It was not the purpose to make an easy to use plugin, I only made it available to make it easier for other people to reproduce my work. 
 
