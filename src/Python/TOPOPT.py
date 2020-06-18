@@ -927,7 +927,7 @@ def mainBeam(_volfrac, _penalty, _move, _lmin, _tolx, _kmax, _width, _height, _f
     timer=np.ceil(endtimer-starttimer)
     ## Final log
     if change<=_tolx: logger.info("Ite.: {:03}  Convergence criterion reached\n".format(k))
-    elif k>=kmax: logger.info("Ite.: {:03}  Maximum number of iterations reached\n".format(k))
+    elif k>=_kmax: logger.info("Ite.: {:03}  Maximum number of iterations reached\n".format(k))
     logger.info("FINAL OBJECTIVE FUNCTION VALUE     :   {}\n".format(f0val/mu0))
 
     # Check values black and white filtering
