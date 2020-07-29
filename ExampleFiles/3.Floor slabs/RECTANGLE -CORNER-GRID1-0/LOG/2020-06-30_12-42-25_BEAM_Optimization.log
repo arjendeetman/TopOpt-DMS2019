@@ -1,0 +1,371 @@
+2020-06-30 12:42:25,297 - TOPOPT - INFO - START OF THE MAIN PROGRAM
+
+2020-06-30 12:42:25,325 - TOPOPT - INFO - Total number of finite elements            :   2732
+2020-06-30 12:42:25,326 - TOPOPT - INFO - Number of finite elements for filament     :   2732
+2020-06-30 12:42:25,326 - TOPOPT - INFO - Number of finite elements for connection   :   0
+2020-06-30 12:42:25,326 - TOPOPT - INFO - Total number of design variables           :   2732
+2020-06-30 12:42:25,326 - TOPOPT - INFO - Total number of nodes                      :   1125
+2020-06-30 12:42:25,327 - TOPOPT - INFO - Total degrees of freedom                   :   6750
+2020-06-30 12:42:25,327 - TOPOPT - INFO - Number of free degrees of freedom          :   6743
+2020-06-30 12:42:25,327 - TOPOPT - INFO - Volume fraction                            :   0.3
+2020-06-30 12:42:25,327 - TOPOPT - INFO - Penalty factor                             :   3.0
+2020-06-30 12:42:25,327 - TOPOPT - INFO - Continuation step                          :   True
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Filter length                              :   0.0
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Filter approach                            :   SENS
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Maximum number of iterations               :   1000.0
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Tolerance (max. density change)            :   0.001
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Maximum Young's modulus for fil (if x_i=1) :   1.0
+2020-06-30 12:42:25,328 - TOPOPT - INFO - Minimum Young's modulus for fil (if x_i=0) :   1e-09
+2020-06-30 12:42:25,329 - TOPOPT - INFO - Maximum Young's modulus for con (if x_i=1) :   1.0
+2020-06-30 12:42:25,333 - TOPOPT - INFO - Minimum Young's modulus for con (if x_i=0) :   1e-09
+
+2020-06-30 12:42:25,492 - TOPOPT - INFO - Scaling factor for objective function f0   :   0.000
+2020-06-30 12:42:25,492 - TOPOPT - INFO - Scaling factor for constraint function f1  :   2732.000
+
+2020-06-30 12:42:25,657 - TOPOPT - INFO - Ite.: 000  Vol.: 0.300  Ch.: 0.0000  Obj.: 833.3
+2020-06-30 12:42:25,809 - TOPOPT - INFO - Ite.: 001  Vol.: 0.300  Ch.: 0.2000  Obj.: 50.1
+2020-06-30 12:42:25,921 - TOPOPT - INFO - Ite.: 002  Vol.: 0.300  Ch.: 0.2000  Obj.: 41.0
+2020-06-30 12:42:26,048 - TOPOPT - INFO - Ite.: 003  Vol.: 0.300  Ch.: 0.2000  Obj.: 36.3
+2020-06-30 12:42:26,175 - TOPOPT - INFO - Ite.: 004  Vol.: 0.300  Ch.: 0.1274  Obj.: 34.2
+2020-06-30 12:42:26,292 - TOPOPT - INFO - Ite.: 005  Vol.: 0.300  Ch.: 0.1473  Obj.: 33.7
+2020-06-30 12:42:26,444 - TOPOPT - INFO - Ite.: 006  Vol.: 0.300  Ch.: 0.1137  Obj.: 33.4
+2020-06-30 12:42:26,599 - TOPOPT - INFO - Ite.: 007  Vol.: 0.300  Ch.: 0.0907  Obj.: 33.2
+2020-06-30 12:42:26,767 - TOPOPT - INFO - Ite.: 008  Vol.: 0.300  Ch.: 0.0729  Obj.: 33.1
+2020-06-30 12:42:26,923 - TOPOPT - INFO - Ite.: 009  Vol.: 0.300  Ch.: 0.0662  Obj.: 33.0
+2020-06-30 12:42:27,101 - TOPOPT - INFO - Ite.: 010  Vol.: 0.300  Ch.: 0.0603  Obj.: 32.9
+2020-06-30 12:42:27,287 - TOPOPT - INFO - Ite.: 011  Vol.: 0.300  Ch.: 0.0487  Obj.: 32.9
+2020-06-30 12:42:27,414 - TOPOPT - INFO - Ite.: 012  Vol.: 0.300  Ch.: 0.0452  Obj.: 32.8
+2020-06-30 12:42:27,525 - TOPOPT - INFO - Ite.: 013  Vol.: 0.300  Ch.: 0.0417  Obj.: 32.8
+2020-06-30 12:42:27,636 - TOPOPT - INFO - Ite.: 014  Vol.: 0.300  Ch.: 0.0386  Obj.: 32.8
+2020-06-30 12:42:27,761 - TOPOPT - INFO - Ite.: 015  Vol.: 0.300  Ch.: 0.0363  Obj.: 32.8
+2020-06-30 12:42:27,884 - TOPOPT - INFO - Ite.: 016  Vol.: 0.300  Ch.: 0.0333  Obj.: 32.7
+2020-06-30 12:42:28,054 - TOPOPT - INFO - Ite.: 017  Vol.: 0.300  Ch.: 0.0314  Obj.: 32.7
+2020-06-30 12:42:28,217 - TOPOPT - INFO - Ite.: 018  Vol.: 0.300  Ch.: 0.0283  Obj.: 32.7
+2020-06-30 12:42:28,387 - TOPOPT - INFO - Ite.: 019  Vol.: 0.300  Ch.: 0.0276  Obj.: 32.7
+2020-06-30 12:42:28,555 - TOPOPT - INFO - Ite.: 020  Vol.: 0.300  Ch.: 0.0267  Obj.: 32.7
+2020-06-30 12:42:28,717 - TOPOPT - INFO - Ite.: 021  Vol.: 0.300  Ch.: 0.0256  Obj.: 32.8
+2020-06-30 12:42:28,864 - TOPOPT - INFO - Ite.: 022  Vol.: 0.300  Ch.: 0.0276  Obj.: 32.9
+2020-06-30 12:42:28,989 - TOPOPT - INFO - Ite.: 023  Vol.: 0.300  Ch.: 0.0315  Obj.: 33.0
+2020-06-30 12:42:29,137 - TOPOPT - INFO - Ite.: 024  Vol.: 0.300  Ch.: 0.0367  Obj.: 33.0
+2020-06-30 12:42:29,337 - TOPOPT - INFO - Ite.: 025  Vol.: 0.300  Ch.: 0.0426  Obj.: 33.1
+2020-06-30 12:42:29,521 - TOPOPT - INFO - Ite.: 026  Vol.: 0.300  Ch.: 0.0453  Obj.: 33.2
+2020-06-30 12:42:29,678 - TOPOPT - INFO - Ite.: 027  Vol.: 0.300  Ch.: 0.0299  Obj.: 33.3
+2020-06-30 12:42:29,825 - TOPOPT - INFO - Ite.: 028  Vol.: 0.300  Ch.: 0.0345  Obj.: 33.3
+2020-06-30 12:42:30,015 - TOPOPT - INFO - Ite.: 029  Vol.: 0.300  Ch.: 0.0428  Obj.: 33.4
+2020-06-30 12:42:30,159 - TOPOPT - INFO - Ite.: 030  Vol.: 0.300  Ch.: 0.0512  Obj.: 33.4
+2020-06-30 12:42:30,322 - TOPOPT - INFO - Ite.: 031  Vol.: 0.300  Ch.: 0.0607  Obj.: 33.5
+2020-06-30 12:42:30,528 - TOPOPT - INFO - Ite.: 032  Vol.: 0.300  Ch.: 0.0714  Obj.: 33.5
+2020-06-30 12:42:30,715 - TOPOPT - INFO - Ite.: 033  Vol.: 0.300  Ch.: 0.0739  Obj.: 33.6
+2020-06-30 12:42:30,855 - TOPOPT - INFO - Ite.: 034  Vol.: 0.300  Ch.: 0.0726  Obj.: 33.6
+2020-06-30 12:42:31,034 - TOPOPT - INFO - Ite.: 035  Vol.: 0.300  Ch.: 0.0691  Obj.: 33.6
+2020-06-30 12:42:31,253 - TOPOPT - INFO - Ite.: 036  Vol.: 0.300  Ch.: 0.0610  Obj.: 33.6
+2020-06-30 12:42:31,443 - TOPOPT - INFO - Ite.: 037  Vol.: 0.300  Ch.: 0.0589  Obj.: 33.7
+2020-06-30 12:42:31,653 - TOPOPT - INFO - Ite.: 038  Vol.: 0.300  Ch.: 0.0538  Obj.: 33.7
+2020-06-30 12:42:31,826 - TOPOPT - INFO - Ite.: 039  Vol.: 0.300  Ch.: 0.0489  Obj.: 33.7
+2020-06-30 12:42:32,032 - TOPOPT - INFO - Ite.: 040  Vol.: 0.300  Ch.: 0.0804  Obj.: 33.7
+2020-06-30 12:42:32,242 - TOPOPT - INFO - Ite.: 041  Vol.: 0.300  Ch.: 0.1064  Obj.: 33.7
+2020-06-30 12:42:32,439 - TOPOPT - INFO - Ite.: 042  Vol.: 0.300  Ch.: 0.1104  Obj.: 33.7
+2020-06-30 12:42:32,626 - TOPOPT - INFO - Ite.: 043  Vol.: 0.300  Ch.: 0.0981  Obj.: 33.8
+2020-06-30 12:42:32,805 - TOPOPT - INFO - Ite.: 044  Vol.: 0.300  Ch.: 0.0564  Obj.: 33.8
+2020-06-30 12:42:32,930 - TOPOPT - INFO - Ite.: 045  Vol.: 0.300  Ch.: 0.0730  Obj.: 33.8
+2020-06-30 12:42:33,085 - TOPOPT - INFO - Ite.: 046  Vol.: 0.300  Ch.: 0.0934  Obj.: 33.8
+2020-06-30 12:42:33,291 - TOPOPT - INFO - Ite.: 047  Vol.: 0.300  Ch.: 0.0450  Obj.: 33.9
+2020-06-30 12:42:33,479 - TOPOPT - INFO - Ite.: 048  Vol.: 0.300  Ch.: 0.0320  Obj.: 33.9
+2020-06-30 12:42:33,662 - TOPOPT - INFO - Ite.: 049  Vol.: 0.300  Ch.: 0.0285  Obj.: 33.9
+2020-06-30 12:42:33,864 - TOPOPT - INFO - Ite.: 050  Vol.: 0.300  Ch.: 0.0322  Obj.: 34.0
+2020-06-30 12:42:34,058 - TOPOPT - INFO - Ite.: 051  Vol.: 0.300  Ch.: 0.0355  Obj.: 34.0
+2020-06-30 12:42:34,223 - TOPOPT - INFO - Ite.: 052  Vol.: 0.300  Ch.: 0.0367  Obj.: 34.0
+2020-06-30 12:42:34,405 - TOPOPT - INFO - Ite.: 053  Vol.: 0.300  Ch.: 0.0335  Obj.: 34.1
+2020-06-30 12:42:34,591 - TOPOPT - INFO - Ite.: 054  Vol.: 0.300  Ch.: 0.0324  Obj.: 34.1
+2020-06-30 12:42:34,781 - TOPOPT - INFO - Ite.: 055  Vol.: 0.300  Ch.: 0.0319  Obj.: 34.1
+2020-06-30 12:42:34,909 - TOPOPT - INFO - Ite.: 056  Vol.: 0.300  Ch.: 0.0322  Obj.: 34.2
+2020-06-30 12:42:35,042 - TOPOPT - INFO - Ite.: 057  Vol.: 0.300  Ch.: 0.0349  Obj.: 34.2
+2020-06-30 12:42:35,261 - TOPOPT - INFO - Ite.: 058  Vol.: 0.300  Ch.: 0.0407  Obj.: 34.3
+2020-06-30 12:42:35,515 - TOPOPT - INFO - Ite.: 059  Vol.: 0.300  Ch.: 0.0483  Obj.: 34.3
+2020-06-30 12:42:35,734 - TOPOPT - INFO - Ite.: 060  Vol.: 0.300  Ch.: 0.0588  Obj.: 34.3
+2020-06-30 12:42:35,926 - TOPOPT - INFO - Ite.: 061  Vol.: 0.300  Ch.: 0.0728  Obj.: 34.4
+2020-06-30 12:42:36,131 - TOPOPT - INFO - Ite.: 062  Vol.: 0.300  Ch.: 0.0888  Obj.: 34.4
+2020-06-30 12:42:36,338 - TOPOPT - INFO - Ite.: 063  Vol.: 0.300  Ch.: 0.0998  Obj.: 34.4
+2020-06-30 12:42:36,508 - TOPOPT - INFO - Ite.: 064  Vol.: 0.300  Ch.: 0.0905  Obj.: 34.4
+2020-06-30 12:42:36,666 - TOPOPT - INFO - Ite.: 065  Vol.: 0.300  Ch.: 0.0520  Obj.: 34.5
+2020-06-30 12:42:36,847 - TOPOPT - INFO - Ite.: 066  Vol.: 0.300  Ch.: 0.0135  Obj.: 34.5
+2020-06-30 12:42:37,038 - TOPOPT - INFO - Ite.: 067  Vol.: 0.300  Ch.: 0.0153  Obj.: 34.5
+2020-06-30 12:42:37,268 - TOPOPT - INFO - Ite.: 068  Vol.: 0.300  Ch.: 0.0186  Obj.: 34.6
+2020-06-30 12:42:37,461 - TOPOPT - INFO - Ite.: 069  Vol.: 0.300  Ch.: 0.0217  Obj.: 34.6
+2020-06-30 12:42:37,662 - TOPOPT - INFO - Ite.: 070  Vol.: 0.300  Ch.: 0.0269  Obj.: 34.7
+2020-06-30 12:42:37,859 - TOPOPT - INFO - Ite.: 071  Vol.: 0.300  Ch.: 0.0342  Obj.: 34.8
+2020-06-30 12:42:38,041 - TOPOPT - INFO - Ite.: 072  Vol.: 0.300  Ch.: 0.0460  Obj.: 34.8
+2020-06-30 12:42:38,252 - TOPOPT - INFO - Ite.: 073  Vol.: 0.300  Ch.: 0.0628  Obj.: 34.8
+2020-06-30 12:42:38,442 - TOPOPT - INFO - Ite.: 074  Vol.: 0.300  Ch.: 0.0853  Obj.: 34.9
+2020-06-30 12:42:38,658 - TOPOPT - INFO - Ite.: 075  Vol.: 0.300  Ch.: 0.1083  Obj.: 34.9
+2020-06-30 12:42:38,874 - TOPOPT - INFO - Ite.: 076  Vol.: 0.300  Ch.: 0.1017  Obj.: 34.9
+2020-06-30 12:42:39,070 - TOPOPT - INFO - Ite.: 077  Vol.: 0.300  Ch.: 0.0977  Obj.: 34.9
+2020-06-30 12:42:39,266 - TOPOPT - INFO - Ite.: 078  Vol.: 0.300  Ch.: 0.1088  Obj.: 34.8
+2020-06-30 12:42:39,459 - TOPOPT - INFO - Ite.: 079  Vol.: 0.300  Ch.: 0.0884  Obj.: 34.8
+2020-06-30 12:42:39,641 - TOPOPT - INFO - Ite.: 080  Vol.: 0.300  Ch.: 0.0342  Obj.: 34.8
+2020-06-30 12:42:39,831 - TOPOPT - INFO - Ite.: 081  Vol.: 0.300  Ch.: 0.0155  Obj.: 34.8
+2020-06-30 12:42:40,007 - TOPOPT - INFO - Ite.: 082  Vol.: 0.300  Ch.: 0.0204  Obj.: 34.8
+2020-06-30 12:42:40,147 - TOPOPT - INFO - Ite.: 083  Vol.: 0.300  Ch.: 0.0262  Obj.: 34.8
+2020-06-30 12:42:40,274 - TOPOPT - INFO - Ite.: 084  Vol.: 0.300  Ch.: 0.0283  Obj.: 34.7
+2020-06-30 12:42:40,399 - TOPOPT - INFO - Ite.: 085  Vol.: 0.300  Ch.: 0.0188  Obj.: 34.7
+2020-06-30 12:42:40,523 - TOPOPT - INFO - Ite.: 086  Vol.: 0.300  Ch.: 0.0048  Obj.: 34.7
+2020-06-30 12:42:40,649 - TOPOPT - INFO - Ite.: 087  Vol.: 0.300  Ch.: 0.0017  Obj.: 34.7
+2020-06-30 12:42:40,853 - TOPOPT - INFO - Ite.: 088  Vol.: 0.300  Ch.: 0.0016  Obj.: 34.7
+2020-06-30 12:42:41,063 - TOPOPT - INFO - Ite.: 089  Vol.: 0.300  Ch.: 0.0014  Obj.: 34.7
+2020-06-30 12:42:41,301 - TOPOPT - INFO - Ite.: 090  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:41,521 - TOPOPT - INFO - Ite.: 091  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:41,753 - TOPOPT - INFO - Ite.: 092  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:41,980 - TOPOPT - INFO - Ite.: 093  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:42,231 - TOPOPT - INFO - Ite.: 094  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:42,482 - TOPOPT - INFO - Ite.: 095  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:42,714 - TOPOPT - INFO - Ite.: 096  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:42,950 - TOPOPT - INFO - Ite.: 097  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:43,181 - TOPOPT - INFO - Ite.: 098  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:43,412 - TOPOPT - INFO - Ite.: 099  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:43,638 - TOPOPT - INFO - Ite.: 100  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:43,882 - TOPOPT - INFO - Ite.: 101  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:44,144 - TOPOPT - INFO - Ite.: 102  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:44,399 - TOPOPT - INFO - Ite.: 103  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:44,630 - TOPOPT - INFO - Ite.: 104  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:44,867 - TOPOPT - INFO - Ite.: 105  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:45,108 - TOPOPT - INFO - Ite.: 106  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:45,354 - TOPOPT - INFO - Ite.: 107  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:45,575 - TOPOPT - INFO - Ite.: 108  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:45,809 - TOPOPT - INFO - Ite.: 109  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:46,064 - TOPOPT - INFO - Ite.: 110  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:46,304 - TOPOPT - INFO - Ite.: 111  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:46,532 - TOPOPT - INFO - Ite.: 112  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:46,760 - TOPOPT - INFO - Ite.: 113  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:46,995 - TOPOPT - INFO - Ite.: 114  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:47,232 - TOPOPT - INFO - Ite.: 115  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:47,469 - TOPOPT - INFO - Ite.: 116  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:47,698 - TOPOPT - INFO - Ite.: 117  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:47,942 - TOPOPT - INFO - Ite.: 118  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:48,177 - TOPOPT - INFO - Ite.: 119  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:48,408 - TOPOPT - INFO - Ite.: 120  Vol.: 0.300  Ch.: 0.0014  Obj.: 34.7
+2020-06-30 12:42:48,651 - TOPOPT - INFO - Ite.: 121  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:48,905 - TOPOPT - INFO - Ite.: 122  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:49,146 - TOPOPT - INFO - Ite.: 123  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:49,393 - TOPOPT - INFO - Ite.: 124  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:49,635 - TOPOPT - INFO - Ite.: 125  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:49,902 - TOPOPT - INFO - Ite.: 126  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:50,141 - TOPOPT - INFO - Ite.: 127  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:50,370 - TOPOPT - INFO - Ite.: 128  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:50,604 - TOPOPT - INFO - Ite.: 129  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:50,851 - TOPOPT - INFO - Ite.: 130  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:51,096 - TOPOPT - INFO - Ite.: 131  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:51,353 - TOPOPT - INFO - Ite.: 132  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:51,583 - TOPOPT - INFO - Ite.: 133  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:51,822 - TOPOPT - INFO - Ite.: 134  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:52,067 - TOPOPT - INFO - Ite.: 135  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:52,311 - TOPOPT - INFO - Ite.: 136  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:52,560 - TOPOPT - INFO - Ite.: 137  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:52,804 - TOPOPT - INFO - Ite.: 138  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:53,048 - TOPOPT - INFO - Ite.: 139  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:53,300 - TOPOPT - INFO - Ite.: 140  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:53,522 - TOPOPT - INFO - Ite.: 141  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:53,772 - TOPOPT - INFO - Ite.: 142  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:54,000 - TOPOPT - INFO - Ite.: 143  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:54,253 - TOPOPT - INFO - Ite.: 144  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:54,491 - TOPOPT - INFO - Ite.: 145  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:54,746 - TOPOPT - INFO - Ite.: 146  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:54,977 - TOPOPT - INFO - Ite.: 147  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:55,213 - TOPOPT - INFO - Ite.: 148  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:55,430 - TOPOPT - INFO - Ite.: 149  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:55,670 - TOPOPT - INFO - Ite.: 150  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:55,912 - TOPOPT - INFO - Ite.: 151  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:56,161 - TOPOPT - INFO - Ite.: 152  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:56,397 - TOPOPT - INFO - Ite.: 153  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:56,650 - TOPOPT - INFO - Ite.: 154  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:56,887 - TOPOPT - INFO - Ite.: 155  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:57,119 - TOPOPT - INFO - Ite.: 156  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:57,376 - TOPOPT - INFO - Ite.: 157  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:57,648 - TOPOPT - INFO - Ite.: 158  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:57,923 - TOPOPT - INFO - Ite.: 159  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:58,184 - TOPOPT - INFO - Ite.: 160  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:42:58,445 - TOPOPT - INFO - Ite.: 161  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:58,694 - TOPOPT - INFO - Ite.: 162  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:58,947 - TOPOPT - INFO - Ite.: 163  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:59,202 - TOPOPT - INFO - Ite.: 164  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:42:59,439 - TOPOPT - INFO - Ite.: 165  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:59,685 - TOPOPT - INFO - Ite.: 166  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:42:59,916 - TOPOPT - INFO - Ite.: 167  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:00,167 - TOPOPT - INFO - Ite.: 168  Vol.: 0.300  Ch.: 0.0013  Obj.: 34.7
+2020-06-30 12:43:00,418 - TOPOPT - INFO - Ite.: 169  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:00,673 - TOPOPT - INFO - Ite.: 170  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:00,942 - TOPOPT - INFO - Ite.: 171  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:01,238 - TOPOPT - INFO - Ite.: 172  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:01,529 - TOPOPT - INFO - Ite.: 173  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:01,818 - TOPOPT - INFO - Ite.: 174  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:02,092 - TOPOPT - INFO - Ite.: 175  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:02,360 - TOPOPT - INFO - Ite.: 176  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:02,595 - TOPOPT - INFO - Ite.: 177  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:02,856 - TOPOPT - INFO - Ite.: 178  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:03,103 - TOPOPT - INFO - Ite.: 179  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:03,357 - TOPOPT - INFO - Ite.: 180  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:03,603 - TOPOPT - INFO - Ite.: 181  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:03,867 - TOPOPT - INFO - Ite.: 182  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:04,125 - TOPOPT - INFO - Ite.: 183  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:04,390 - TOPOPT - INFO - Ite.: 184  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:04,626 - TOPOPT - INFO - Ite.: 185  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:04,867 - TOPOPT - INFO - Ite.: 186  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:05,120 - TOPOPT - INFO - Ite.: 187  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:05,390 - TOPOPT - INFO - Ite.: 188  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:05,635 - TOPOPT - INFO - Ite.: 189  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:05,890 - TOPOPT - INFO - Ite.: 190  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:06,145 - TOPOPT - INFO - Ite.: 191  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:06,413 - TOPOPT - INFO - Ite.: 192  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:06,657 - TOPOPT - INFO - Ite.: 193  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:06,922 - TOPOPT - INFO - Ite.: 194  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:07,190 - TOPOPT - INFO - Ite.: 195  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:07,442 - TOPOPT - INFO - Ite.: 196  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:07,690 - TOPOPT - INFO - Ite.: 197  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:07,933 - TOPOPT - INFO - Ite.: 198  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:08,176 - TOPOPT - INFO - Ite.: 199  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:08,423 - TOPOPT - INFO - Ite.: 200  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:08,666 - TOPOPT - INFO - Ite.: 201  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:08,902 - TOPOPT - INFO - Ite.: 202  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:09,171 - TOPOPT - INFO - Ite.: 203  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:09,410 - TOPOPT - INFO - Ite.: 204  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:09,641 - TOPOPT - INFO - Ite.: 205  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:09,900 - TOPOPT - INFO - Ite.: 206  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:10,160 - TOPOPT - INFO - Ite.: 207  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:10,404 - TOPOPT - INFO - Ite.: 208  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:10,640 - TOPOPT - INFO - Ite.: 209  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:10,880 - TOPOPT - INFO - Ite.: 210  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:11,117 - TOPOPT - INFO - Ite.: 211  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:11,361 - TOPOPT - INFO - Ite.: 212  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:11,599 - TOPOPT - INFO - Ite.: 213  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:11,850 - TOPOPT - INFO - Ite.: 214  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:12,081 - TOPOPT - INFO - Ite.: 215  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:12,336 - TOPOPT - INFO - Ite.: 216  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:12,572 - TOPOPT - INFO - Ite.: 217  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:12,818 - TOPOPT - INFO - Ite.: 218  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:13,070 - TOPOPT - INFO - Ite.: 219  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:13,311 - TOPOPT - INFO - Ite.: 220  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:13,542 - TOPOPT - INFO - Ite.: 221  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:13,788 - TOPOPT - INFO - Ite.: 222  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:14,027 - TOPOPT - INFO - Ite.: 223  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:14,276 - TOPOPT - INFO - Ite.: 224  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:14,519 - TOPOPT - INFO - Ite.: 225  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:14,767 - TOPOPT - INFO - Ite.: 226  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:15,001 - TOPOPT - INFO - Ite.: 227  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:15,244 - TOPOPT - INFO - Ite.: 228  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:15,492 - TOPOPT - INFO - Ite.: 229  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:15,741 - TOPOPT - INFO - Ite.: 230  Vol.: 0.300  Ch.: 0.0012  Obj.: 34.7
+2020-06-30 12:43:15,982 - TOPOPT - INFO - Ite.: 231  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:16,222 - TOPOPT - INFO - Ite.: 232  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:16,476 - TOPOPT - INFO - Ite.: 233  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:16,718 - TOPOPT - INFO - Ite.: 234  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:16,964 - TOPOPT - INFO - Ite.: 235  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:17,219 - TOPOPT - INFO - Ite.: 236  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:17,475 - TOPOPT - INFO - Ite.: 237  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:17,726 - TOPOPT - INFO - Ite.: 238  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:17,947 - TOPOPT - INFO - Ite.: 239  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:18,170 - TOPOPT - INFO - Ite.: 240  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:18,409 - TOPOPT - INFO - Ite.: 241  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:18,659 - TOPOPT - INFO - Ite.: 242  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:18,909 - TOPOPT - INFO - Ite.: 243  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:19,142 - TOPOPT - INFO - Ite.: 244  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:19,401 - TOPOPT - INFO - Ite.: 245  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:19,632 - TOPOPT - INFO - Ite.: 246  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:19,884 - TOPOPT - INFO - Ite.: 247  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:20,113 - TOPOPT - INFO - Ite.: 248  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:20,369 - TOPOPT - INFO - Ite.: 249  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:20,625 - TOPOPT - INFO - Ite.: 250  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:20,862 - TOPOPT - INFO - Ite.: 251  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:21,107 - TOPOPT - INFO - Ite.: 252  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:21,356 - TOPOPT - INFO - Ite.: 253  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:21,609 - TOPOPT - INFO - Ite.: 254  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:21,855 - TOPOPT - INFO - Ite.: 255  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:22,084 - TOPOPT - INFO - Ite.: 256  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:22,335 - TOPOPT - INFO - Ite.: 257  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:22,577 - TOPOPT - INFO - Ite.: 258  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:22,819 - TOPOPT - INFO - Ite.: 259  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:23,055 - TOPOPT - INFO - Ite.: 260  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:23,308 - TOPOPT - INFO - Ite.: 261  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:23,561 - TOPOPT - INFO - Ite.: 262  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:23,802 - TOPOPT - INFO - Ite.: 263  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:24,029 - TOPOPT - INFO - Ite.: 264  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:24,265 - TOPOPT - INFO - Ite.: 265  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:24,555 - TOPOPT - INFO - Ite.: 266  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:25,084 - TOPOPT - INFO - Ite.: 267  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:25,674 - TOPOPT - INFO - Ite.: 268  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:26,296 - TOPOPT - INFO - Ite.: 269  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:26,917 - TOPOPT - INFO - Ite.: 270  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:27,558 - TOPOPT - INFO - Ite.: 271  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:28,199 - TOPOPT - INFO - Ite.: 272  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:28,781 - TOPOPT - INFO - Ite.: 273  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:29,350 - TOPOPT - INFO - Ite.: 274  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:29,931 - TOPOPT - INFO - Ite.: 275  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:30,538 - TOPOPT - INFO - Ite.: 276  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:31,096 - TOPOPT - INFO - Ite.: 277  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:31,647 - TOPOPT - INFO - Ite.: 278  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:32,174 - TOPOPT - INFO - Ite.: 279  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:32,676 - TOPOPT - INFO - Ite.: 280  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:33,329 - TOPOPT - INFO - Ite.: 281  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:34,017 - TOPOPT - INFO - Ite.: 282  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:34,585 - TOPOPT - INFO - Ite.: 283  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:35,221 - TOPOPT - INFO - Ite.: 284  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:35,797 - TOPOPT - INFO - Ite.: 285  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:36,406 - TOPOPT - INFO - Ite.: 286  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:37,077 - TOPOPT - INFO - Ite.: 287  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:37,687 - TOPOPT - INFO - Ite.: 288  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:38,283 - TOPOPT - INFO - Ite.: 289  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:38,882 - TOPOPT - INFO - Ite.: 290  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:39,474 - TOPOPT - INFO - Ite.: 291  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:40,100 - TOPOPT - INFO - Ite.: 292  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:40,688 - TOPOPT - INFO - Ite.: 293  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:41,243 - TOPOPT - INFO - Ite.: 294  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:41,861 - TOPOPT - INFO - Ite.: 295  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:42,414 - TOPOPT - INFO - Ite.: 296  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:43,037 - TOPOPT - INFO - Ite.: 297  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:43,579 - TOPOPT - INFO - Ite.: 298  Vol.: 0.300  Ch.: 0.0011  Obj.: 34.7
+2020-06-30 12:43:44,144 - TOPOPT - INFO - Ite.: 299  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:44,698 - TOPOPT - INFO - Ite.: 300  Vol.: 0.300  Ch.: 0.0010  Obj.: 34.7
+2020-06-30 12:43:44,754 - TOPOPT - INFO - Ite.: 301  Convergence criterion reached
+
+2020-06-30 12:43:44,755 - TOPOPT - INFO - FINAL OBJECTIVE FUNCTION VALUE     :   22833341653.19214
+
+2020-06-30 12:43:44,759 - TOPOPT - INFO - Black and white filtering data for different threshold values
+2020-06-30 12:43:45,272 - TOPOPT - INFO - Threshold value            :   0.1
+2020-06-30 12:43:45,274 - TOPOPT - INFO - Volume fraction            :   0.3241802680014368
+2020-06-30 12:43:45,278 - TOPOPT - INFO - Objective function value   :   514995777250.745
+
+2020-06-30 12:43:45,851 - TOPOPT - INFO - Threshold value            :   0.2
+2020-06-30 12:43:45,852 - TOPOPT - INFO - Volume fraction            :   0.3188257807913127
+2020-06-30 12:43:45,867 - TOPOPT - INFO - Objective function value   :   3844752188586.708
+
+2020-06-30 12:43:46,297 - TOPOPT - INFO - Threshold value            :   0.3
+2020-06-30 12:43:46,301 - TOPOPT - INFO - Volume fraction            :   0.31567061894459986
+2020-06-30 12:43:46,306 - TOPOPT - INFO - Objective function value   :   5574452159909.956
+
+2020-06-30 12:43:46,852 - TOPOPT - INFO - Threshold value            :   0.4
+2020-06-30 12:43:46,853 - TOPOPT - INFO - Volume fraction            :   0.31325475750521586
+2020-06-30 12:43:46,858 - TOPOPT - INFO - Objective function value   :   5787737908403.927
+
+2020-06-30 12:43:47,384 - TOPOPT - INFO - Threshold value            :   0.5
+2020-06-30 12:43:47,385 - TOPOPT - INFO - Volume fraction            :   0.3102078636964894
+2020-06-30 12:43:47,389 - TOPOPT - INFO - Objective function value   :   17935580952152.734
+
+2020-06-30 12:43:48,034 - TOPOPT - INFO - Threshold value            :   0.6
+2020-06-30 12:43:48,037 - TOPOPT - INFO - Volume fraction            :   0.29728098805425435
+2020-06-30 12:43:48,043 - TOPOPT - INFO - Objective function value   :   45630376557849.07
+
+2020-06-30 12:43:48,679 - TOPOPT - INFO - Threshold value            :   0.7
+2020-06-30 12:43:48,689 - TOPOPT - INFO - Volume fraction            :   0.2924492651754864
+2020-06-30 12:43:48,697 - TOPOPT - INFO - Objective function value   :   50531214680919.98
+
+2020-06-30 12:43:49,293 - TOPOPT - INFO - Threshold value            :   0.8
+2020-06-30 12:43:49,295 - TOPOPT - INFO - Volume fraction            :   0.2796306575712378
+2020-06-30 12:43:49,312 - TOPOPT - INFO - Objective function value   :   409288008550312.6
+
+2020-06-30 12:43:49,881 - TOPOPT - INFO - Threshold value            :   0.9
+2020-06-30 12:43:49,884 - TOPOPT - INFO - Volume fraction            :   0.26417965245163244
+2020-06-30 12:43:49,889 - TOPOPT - INFO - Objective function value   :   725191640268509.9
+
+2020-06-30 12:43:49,891 - TOPOPT - INFO - OPTIMIZATION FINISHED IN 431 SEC. /// 7 MIN.
+
+2020-06-30 12:43:49,894 - TOPOPT - INFO - END OF THE MAIN PROGRAM
+
+2020-06-30 12:43:49,923 - TOPOPT - INFO - YOU CAN CLOSE THIS WINDOW AND CONTINUE IN GRASSHOPPER
