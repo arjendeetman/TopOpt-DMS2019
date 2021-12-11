@@ -53,7 +53,7 @@ You should have received a copy of the GNU General Public License along with Top
 @license GPL-3.0 https://www.gnu.org/licenses/gpl.html
 
 ## Credits
-Significant parts of TopOpt-DMS2019 have been developed by Arjen Deetman as part of a research project on continuous timber fibre placement at [EDEK Uni Kassel](https://edek.uni-kassel.de/).
+Significant parts of TopOpt-DMS2019 have been developed by Arjen Deetman as part of a research project on continuous timber fibre placement at [EDEK Uni Kassel](https://www.uni-kassel.de/fb06/institute/architektur/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/home).
 
 The python code of TopOpt-DMS2019 is partly based on the python code of [Aage and Johansen](http://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-written-in-Python ).
 
